@@ -1,0 +1,18 @@
+body{
+    background-color: #bfbffb   ;
+    padding:50px;
+}
+.container{
+max-width: 600px;
+margin:0 auto ;
+padding: 50px;
+
+}
+.form-group{
+     margin-bottom: 30px;    
+}
+a{text-decoration: none;}
+a:hover{
+    color:red;
+    text-decoration: underline red;
+}
